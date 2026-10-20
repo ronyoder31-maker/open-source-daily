@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Open Source Daily</title>
+    <link>https://ronyoder31-maker.github.io/open-source-daily/</link>
+    <description>Open Source Daily episodes created with Podcast Lite.</description>
+    <language>en</language>
+    <itunes:author>Open Source Daily</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology" />
+    <item>
+      <title>Open Source Daily — 20 October 2026</title>
+      <description>Open Source Daily episode for 20 October 2026.</description>
+      <pubDate>Tue, 20 Oct 2026 06:17:00 +0200</pubDate>
+      <itunes:duration>00:37:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">open-source-daily-2026-10-20</guid>
+      <enclosure url="https://github.com/ronyoder31-maker/open-source-daily/releases/download/episode-2026-10-20/Open_Source_Daily_2026-10-20.m4a" length="26067305" type="audio/mp4" />
+    </item>
+  </channel>
+</rss>
